@@ -10,5 +10,5 @@ My primary research interests are in Operating Systems and Multicore Architectur
 
 ## Publications
 
-**Multicore Locks: The Case Is Not Closed Yet**. Hugo Guiroux, Renaud Lachaize, and Vivien Quéma. In *Proceedings of the USENIX Annual Technical Conference (USENIX ATC)*, June 2016.
+**Multicore Locks: The Case Is Not Closed Yet**. Hugo Guiroux, Renaud Lachaize, and Vivien Quéma. In *Proceedings of the USENIX Annual Technical Conference (USENIX ATC)*, June 2016.<br />
 [[pdf](assets/multicore_locks_atc16.pdf)] [[technical report](assets/multicore_locks_techrep.pdf)] [[source code](https://www.github.com/multicore-locks/litl)]
