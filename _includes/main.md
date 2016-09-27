@@ -1,6 +1,7 @@
 ## Bio
 
-I am a Ph.D. student in Computer Science inside the [ERODS](http://erods.imag.fr/) team of the [Laboratoire d'Informatique de Grenoble](http://lig.imag.fr/).
+I am a Ph.D. student in the [ERODS](http://erods.imag.fr/) team at the [Laboratoire d'Informatique de Grenoble](http://lig.imag.fr/).
+My advisors are [Dr. Renaud Lachaize](http://lig-membres.imag.fr/rlachaiz/) and [Prof. Vivien Qu&eacute;ma](http://lig-membres.imag.fr/quema/).
 
 I received my Bachelor degree in 2013 and my Master degree in 2015 from the [University Joseph Fourier](https://www.ujf-grenoble.fr/).
 
