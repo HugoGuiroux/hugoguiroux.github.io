@@ -18,14 +18,16 @@ My primary research interests are in Operating Systems and Multicore Architectur
 
 ### 2016-2017
 
-- [IUT - First year students] Algorithmique et développement web (Teaching assistant)
-- [IUT - Profesionnal BSc] Programmation mobile et web services (In charge of the course)
+[IUT - First year students] Algorithmique et développement web (Teaching assistant)
+
+[IUT - Profesionnal BSc] Programmation mobile et web services (In charge of the course)
 
 ### 2015 - 2016
 
-- [IUT - First year students] Algorithmique et développement web (Teaching assistant)
+[IUT - First year students] Algorithmique et développement web (Teaching assistant)
 
 ## Other
 
-- Member of [the Doctoral School 2016 Ph.D. Day Organization Committee](www.adum.fr/as/ed/page.pl?site=edmstii&page=journeeDoctorants).
-- Member of [EuroSys 2017 Shadow Program Committee](http://eurosys2017.org/).
+Member of [the Doctoral School 2016 Ph.D. Day Organization Committee](http://www.adum.fr/as/ed/page.pl?site=edmstii&page=journeeDoctorants).
+
+Member of [EuroSys 2017 Shadow Program Committee](http://eurosys2017.org/).
