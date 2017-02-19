@@ -19,7 +19,7 @@ My primary research interests are in Operating Systems and Multicore Architectur
 ### 2016-2017
 
 [IUT - First year students] Algorithmique et développement web (Teaching assistant)<br />
-[IUT - Profesionnal BSc] Programmation mobile et web services (In charge of the course)
+[IUT - Professional BSc] Programmation mobile et web services (In charge of the course)
 
 ### 2015 - 2016
 
