@@ -5,6 +5,8 @@ My advisors are [Dr. Renaud Lachaize](http://lig-membres.imag.fr/rlachaiz/) and 
 
 I received my Bachelor degree in 2013 and my Master degree in 2015 from the [University Joseph Fourier](https://www.ujf-grenoble.fr/).
 
+From June to September 2017, I was an intern at Oracle Labs Zurich, inside the [Walnut team](https://labs.oracle.com/pls/apex/f?p=labs:49:::::P49_PROJECT_ID:15), working on leveraging the [Graal compiler](https://www.graalvm.org/) within the Oracle database and existing big data technologies.
+
 ## Research
 
 My primary research interests are in Operating Systems and Multicore Architectures.
