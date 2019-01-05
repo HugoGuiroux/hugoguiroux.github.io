@@ -1,7 +1,9 @@
 ## Bio
 
-I am a Ph.D. student in the [ERODS](http://erods.imag.fr/) team at the [Laboratoire d'Informatique de Grenoble](http://lig.imag.fr/).
-My advisors are [Dr. Renaud Lachaize](http://lig-membres.imag.fr/rlachaiz/) and [Prof. Vivien Qu&eacute;ma](http://lig-membres.imag.fr/quema/).
+I am a Senior Member of Technical Staff at Oracle Labs Zurich in the [MLE](https://labs.oracle.com/pls/apex/f?p=labs:49:::::P49_PROJECT_ID:15) team.
+
+I did my Ph.D. in the [ERODS](http://erods.imag.fr/) team at the [Laboratoire d'Informatique de Grenoble](http://lig.imag.fr/).
+My advisors were [Dr. Renaud Lachaize](http://lig-membres.imag.fr/rlachaiz/) and [Prof. Vivien Qu&eacute;ma](http://lig-membres.imag.fr/quema/).
 
 I received my Bachelor degree in 2013 and my Master degree in 2015 from the [University Joseph Fourier](https://www.ujf-grenoble.fr/).
 
@@ -9,9 +11,15 @@ From June to September 2017, I was an intern at Oracle Labs Zurich, inside the [
 
 ## Research
 
-My primary research interests are in Operating Systems and Multicore Architectures.
+My primary research interests are in Operating Systems and Multicore Architectures, Application Virtual Machine, Databases and Compiler technologies.
 
 ## Publications
+
+**Lock - Unlock: Is That All? A pragmatic Analysis of Locking in Software Systems**. Rachid Guerraoui, Hugo Guiroux, Renaud Lachaize, Vivien Quéma and Vasileios Trigonakis. To appear in *ACM Transactions on Computer Systems (ACM TOCS)*, 2019.<br />
+[pdf]
+
+**Understanding the Performance of Mutual Exclusion Algorithms on Modern Multicore Machines**. Hugo Guiroux. Ph.D. thesis. University Grenoble Alpes, 2018.<br />
+[[pdf](assets/these.pdf)] [[slides](assets/slides_these.pdf)]
 
 **Multicore Locks: The Case Is Not Closed Yet**. Hugo Guiroux, Renaud Lachaize, and Vivien Quéma. In *Proceedings of the USENIX Annual Technical Conference (USENIX ATC)*, June 2016.<br />
 [[pdf](assets/multicore_locks_atc16.pdf)] [[technical report](assets/multicore_locks_techrep.pdf)] [[source code](https://www.github.com/multicore-locks/litl)]
