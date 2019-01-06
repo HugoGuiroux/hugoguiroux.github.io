@@ -4,10 +4,8 @@ I am a Senior Member of Technical Staff at Oracle Labs Zurich in the [MLE](https
 
 I did my Ph.D. in the [ERODS](http://erods.imag.fr/) team at the [Laboratoire d'Informatique de Grenoble](http://lig.imag.fr/).
 My advisors were [Dr. Renaud Lachaize](http://lig-membres.imag.fr/rlachaiz/) and [Prof. Vivien Qu&eacute;ma](http://lig-membres.imag.fr/quema/).
-
-I received my Bachelor degree in 2013 and my Master degree in 2015 from the [University Joseph Fourier](https://www.ujf-grenoble.fr/).
-
 From June to September 2017, I was an intern at Oracle Labs Zurich, inside the [Walnut team](https://labs.oracle.com/pls/apex/f?p=labs:49:::::P49_PROJECT_ID:15), working on leveraging the [Graal compiler](https://www.graalvm.org/) within the Oracle database and existing big data technologies.
+I received my Bachelor degree in 2013 and my Master degree in 2015 from the [University Joseph Fourier](https://www.ujf-grenoble.fr/).
 
 ## Research
 
