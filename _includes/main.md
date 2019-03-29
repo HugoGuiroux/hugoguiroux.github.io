@@ -14,7 +14,7 @@ My primary research interests are in Operating Systems and Multicore Architectur
 ## Publications
 
 **Lock - Unlock: Is That All? A pragmatic Analysis of Locking in Software Systems**. Rachid Guerraoui, Hugo Guiroux, Renaud Lachaize, Vivien Quéma and Vasileios Trigonakis. In *ACM Transactions on Computer Systems (ACM TOCS)*, Volume 36, Issue 1, Article 1 (March 2019).<br />
-[[pdf](https://dl.acm.org/citation.cfm?id=3301501)]
+[[pdf](assets/lock_unlock_tocs19.pdf)]
 
 **Understanding the Performance of Mutual Exclusion Algorithms on Modern Multicore Machines**. Hugo Guiroux. Ph.D. thesis. University Grenoble Alpes, 2018.<br />
 [[pdf](assets/these.pdf)] [[slides](assets/slides_these.pdf)]
